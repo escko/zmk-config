@@ -1,7 +1,0 @@
-{
-    "highlight-matching-tag.highlightFromContent": true,
-    "highlight-matching-tag.noDefaultEmptyElements": true,
-    "highlight-matching-tag.highlightSelfClosing": true,
-    "peacock.color": "yellow",
-    "peacock.darkenLightenPercentage": 1
-}
