@@ -13,6 +13,10 @@
 #define DEFAULT 0
 #define LOWER   1
 
+&left_encoder { resolution = <1>; };
+// &right_encoder { resolution = <1>; };
+
+
 &spi1 {
 	compatible = "nordic,nrf-spim";
 	status = "okay";
