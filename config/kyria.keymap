@@ -18,11 +18,11 @@
 // &right_encoder { resolution = <1>; };
 
 &mt {
-    tapping-term-ms = <140>;
+    tapping-term-ms = <135>;
 };
 
 &lt {
-    tapping-term-ms = <140>;
+    tapping-term-ms = <135>;
 };
 
 &spi1 {
