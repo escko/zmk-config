@@ -72,7 +72,7 @@
 	                                        &kp F   &kp LG(N0)  &kp Z    &mt LALT C   &mt LGUI N0                 &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
-			sensor-bindings = <&inc_dec_kp LG(LBKT) LG(RBKT)>;
+			sensor-bindings = <&inc_dec_kp LC(LBKT) LC(RBKT)>;
 		};
         lower_layer {
 // ---------------------------------------------------------------------------------------------------------------------------------
