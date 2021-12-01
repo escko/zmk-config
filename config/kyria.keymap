@@ -87,7 +87,7 @@
 	                                &mo RAISE &trans &kp X &kp Z &kp LG(N1)                 &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
-			sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
+			sensor-bindings = <&inc_dec_kp LC(LBKT) LC(RBKT)>;
 		};
 		raise_layer {
 		// ---------------------------------------------------------------------------------------------------------------------------------
