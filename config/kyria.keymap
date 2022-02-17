@@ -14,7 +14,7 @@
 #define LOWER   1
 #define RAISE   2
 #define ORANG   3
-#define BLUE    4
+#define BLU    4
 
 &left_encoder { resolution = <2>; };
 // &right_encoder { resolution = <1>; };
@@ -121,7 +121,7 @@
 
 			sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
 		};
-		blue_layer {
+		blu_layer {
 // ---------------------------------------------------------------------------------------------------------------------------------
 // |  M | R    | LGUI |  E |  R |  T |                                          |  Y   |  U    |  I    |  O   |   P   |   \  |
 // |  L | X    |  W   | N2 | N3 |  H |                                          |  H   |  J    |  K    |  L   |   ;   |   '  |
